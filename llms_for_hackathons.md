@@ -6,9 +6,11 @@ This living document, hosted on GitHub, aims to catalog considerations for the u
 
 ## Prompt: How can LLMs be leveraged to increase the output from hackathons?
 
-Large Language Models (LLMs) can greatly enhance hackathons for both participants and organizers, serving as tools for creativity, efficiency, and collaboration. Here's how they can be effectively incorporated:
+Key takeaways:
 
-By leveraging LLMs, hackathons can become more inclusive, productive, and engaging for everyone involved!
+1. Use LLMs for ideation and document creation at every stage of the process.
+2. Do not trust any output from LLMs at face value - verify everything.
+3. Exercise caution and be awarre of ethical concerns around bias, plagiarism, and organizer expectations around the use of LLMs.
 
 ---
 
