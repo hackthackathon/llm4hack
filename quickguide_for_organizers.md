@@ -1,1 +1,1 @@
-# Quick Guide to LLMs for Participants
+# Quick Guide to LLMs for Organizers
