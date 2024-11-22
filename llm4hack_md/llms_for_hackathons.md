@@ -2,8 +2,6 @@
 
 This living document, hosted on GitHub, aims to catalog considerations for the use of Large Language Models (LLMs) in hackathons. It includes recommendations for both participants and organizers. Once complete, it may inform a future paper on the topic (TBD).
 
----
-
 ## Prompt: How can LLMs be leveraged to increase the output from hackathons?
 
 Key takeaways:
@@ -11,8 +9,6 @@ Key takeaways:
 1. Use LLMs for ideation and document creation at every stage of the process.
 2. Do not trust any output from LLMs at face value - verify everything.
 3. Exercise caution and be awarre of ethical concerns around bias, plagiarism, and organizer expectations around the use of LLMs.
-
----
 
 ## References
 
