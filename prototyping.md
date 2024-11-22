@@ -1,22 +1,16 @@
 # LLM use for Prototyping in Hackathons
 
+## Use Cases for Prototyping with LLMs
 
-Outputs
-
-use an LLM to create a digital output
- - eg website wireframe, drawing to html, 
-use an LLM to create a prototype
-get step by step
-get ideas for your prototype
-
-3D
-- LLM
-
-## Prototyping with LLMs
-
+- Ideation
 - Create digital outputs (e.g., website wireframes).
 - Build prototypes with step-by-step guidance from LLMs.
-- Be aware that LLMs might not necessarily be able to ouput usable formats, But may claim that they can. LLMs are woll suited to write code that can output the desired file formats needed for prototyping.
+
+## Limitations for Prototyping with LLMs
+
+- LLMs might not necessarily be able to ouput usable formats, But may claim that they can.
+	- LLMs are better suited to write code that can output the desired file formats needed for prototyping. Some outputs require modelling within specialized software so this can be limiting.
+  	- LLMs are not good with 3D modelling (yet) but there are efforts underway to address this (example: https://github.com/UMass-Foundation-Model/3D-LLM)
 - Check all output in a visualizer, do not assume the LLM output is correct
 - Some LLMs might be better suited than others
-	- chatGPT vs perplexity 
+	- example: chatGPT will lie about its ability to output correct formats while perplexity will not
