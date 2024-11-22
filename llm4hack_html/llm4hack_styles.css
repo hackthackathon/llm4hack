@@ -38,7 +38,7 @@ height: 100%;
  -moz-osx-font-smoothing: grayscale;
 }
 
-article,
+/* article,
 figcaption,
 figure,
 footer,
@@ -47,13 +47,49 @@ main,
 menu,
 nav {
 display: block;
+} */
+
+#lmm4hack_page {
+    margin: 5rem;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 20% 75%;
+    gap: 5rem;
 }
 
-img {
-width: 100%;
+#lmm4hack_page nav {
+    display: block;
 }
 
-h1, h2, h3, h4 {
+#lmm4hack_page figure, figcaption {
+    display: block;
+}
+
+#lmm4hack_page img {
+    width: 100%;
+}
+
+#lmm4hack_page h1, h2, h3, h4 {
     font-family: 'Raleway', sans-serif;
+    display: block;
 }
 
+#lmm4hack_page h1 {
+    font-size: 2.8rem;
+}
+
+#lmm4hack_page h2 {
+    font-size: 2.2rem;
+}
+
+#lmm4hack_page h3 {
+    font-size: 1.8rem;
+}
+
+#lmm4hack_page h4 {
+    font-size: 1.5rem;
+}
+
+#llm4hack_nav ul {
+    list-style-type: none;
+}
